@@ -1,6 +1,6 @@
 # Bear_Classifier
 
-A Deep learning model used for deployment on a application.\
+A Deep learning model used for deployment on an application.\
 Model uses fastai library which in my opinion suits nicely for such models to train and test.\
 Also this uses fastBook where we could find many methods used here.\
 We used duckduckgo.com browser here to carry out our images downloading for filling our database.
