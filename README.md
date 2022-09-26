@@ -13,7 +13,7 @@ These are :
 4. Polar Bears
 5. Pandas\
 when we train our model with the computer vision deep learning technique it gets to understand how do all these bears differ from each other.\
-After the training...For testing I have enabled an upload option for getting an image from user and then based on training predicting it to be of the correct catorgory of bears.
+After the training...For testing I have enabled an upload option for getting an image from user and then based on training predicting it to be of the correct category of bears.
 
 The results are 99% accurate so we can rely on it.
 
