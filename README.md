@@ -15,6 +15,6 @@ These are :
 when we train our model with the computer vision deep learning technique it gets to understand how do all these bears differ from each other.\
 After the training...For testing I have enabled an upload option for getting an image from user and then based on training predicting it to be of the correct catorgory of bears.
 
-The results are 99% accurate so we can rely on it....
+The results are 99% accurate so we can rely on it.
 
 This model can be used for deployment in an application in which we can share an image or click an image through camera of any type of bear which falls in the range we have trained our model into.....this can be a web app or android app or ios app....
